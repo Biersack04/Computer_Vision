@@ -1,0 +1,429 @@
+2022-02-21 17:14:25 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 17:14:25 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 17:15:51 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 17:15:51 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:31:43 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:31:43 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:33:00 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:33:00 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:39:17 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:39:17 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:39:59 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:39:59 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:42:05 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:42:05 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:43:20 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:43:20 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 18:44:35 INFO  TaskServiceImpl:30 - Checking OS.....
+2022-02-21 18:44:35 DEBUG TaskServiceImpl:45 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 19:54:08 INFO  TaskImpl:28 - Checking OS.....
+2022-02-21 19:54:08 INFO  TaskImpl:43 - pathLin./lib/opencv_java455.dll
+2022-02-21 19:54:08 DEBUG TaskImpl:44 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 19:55:28 INFO  TaskImpl:28 - Checking OS.....
+2022-02-21 19:55:28 INFO  TaskImpl:43 - pathLinD:\computerVision\.\lib\opencv_java455.dll
+2022-02-21 19:55:28 DEBUG TaskImpl:44 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:27:53 INFO  TaskImpl:29 - Checking OS.....
+2022-02-21 20:27:53 DEBUG TaskImpl:52 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:27:53 INFO  ImageImpl:35 - image 
+ 
+2022-02-21 20:45:23 INFO  TaskImpl:29 - Checking OS.....
+2022-02-21 20:45:23 DEBUG TaskImpl:52 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:50:03 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 20:50:03 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:51:52 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 20:51:52 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:53:34 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 20:53:34 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:53:34 DEBUG ImageImpl:72 - only .JPG and .PNG files are supported
+2022-02-21 20:55:30 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 20:55:30 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:55:30 INFO  ImageImpl:70 - modFilePath - 
+2022-02-21 20:56:16 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 20:56:16 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:56:16 INFO  ImageImpl:70 - modFilePath - 
+2022-02-21 20:57:30 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 20:57:30 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 20:57:30 INFO  ImageImpl:69 - imageName - 
+2022-02-21 20:57:30 INFO  ImageImpl:70 - Constants.IMAGE_PATH - 
+2022-02-21 20:57:30 INFO  ImageImpl:72 - modFilePath - 
+2022-02-21 21:01:06 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:01:06 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:01:06 DEBUG TaskImpl:58 - Mat
+2022-02-21 21:01:06 INFO  ImageImpl:69 - imageName - 
+2022-02-21 21:01:06 INFO  ImageImpl:70 - Constants.IMAGE_PATH - 
+2022-02-21 21:01:06 INFO  ImageImpl:72 - modFilePath - 
+2022-02-21 21:04:34 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:04:34 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:04:34 INFO  ImageImpl:82 - imageName - 
+2022-02-21 21:04:34 INFO  ImageImpl:83 - Constants.IMAGE_PATH - 
+2022-02-21 21:04:34 INFO  ImageImpl:85 - modFilePath - 
+2022-02-21 21:06:09 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:06:09 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:06:09 INFO  ImageImpl:82 - imageName - 
+2022-02-21 21:06:09 INFO  ImageImpl:83 - Constants.IMAGE_PATH - 
+2022-02-21 21:06:09 INFO  ImageImpl:85 - modFilePath - 
+2022-02-21 21:13:23 INFO  TaskImpl:29 - Checking OS.....
+2022-02-21 21:13:23 DEBUG TaskImpl:52 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:14:21 INFO  TaskImpl:29 - Checking OS.....
+2022-02-21 21:14:21 DEBUG TaskImpl:52 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:27:34 INFO  TaskImpl:29 - Checking OS.....
+2022-02-21 21:27:35 DEBUG TaskImpl:52 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:28:00 INFO  TaskImpl:29 - Checking OS.....
+2022-02-21 21:28:00 DEBUG TaskImpl:52 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:35:54 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:35:54 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:38:26 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:38:26 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:40:10 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:40:10 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:42:11 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:42:11 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 21:46:03 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 21:46:03 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:01:00 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:01:00 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:01:14 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:01:14 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:01:36 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:01:36 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:06:17 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:06:17 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:07:11 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:07:11 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:08:37 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:08:37 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:08:45 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:08:45 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:09:45 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:09:45 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:10:28 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:10:28 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:10:28 INFO  ImageImpl:95 - imPath
+2022-02-21 22:10:52 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:10:52 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:10:52 INFO  ImageImpl:95 - imPath
+2022-02-21 22:11:20 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:11:20 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:11:20 INFO  ImageImpl:85 - Constants.IMAGE_PATH - 
+2022-02-21 22:12:04 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:12:04 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:12:04 INFO  ImageImpl:87 - modFilePath - 
+2022-02-21 22:12:37 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:12:37 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:12:38 INFO  ImageImpl:87 - modFilePath - 
+
+2022-02-21 22:12:38 INFO  ImageImpl:88 - D:/computerVision/src/main/resources/images/testimage.jpg.jpg
+2022-02-21 22:13:39 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:13:39 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:13:39 INFO  ImageImpl:94 - D:/computerVision/src/main/resources/images
+2022-02-21 22:13:39 INFO  ImageImpl:95 - testimage.jpg
+2022-02-21 22:14:21 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:14:21 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:14:21 INFO  ImageImpl:94 - D:/computerVision/src/main/resources/images
+2022-02-21 22:14:21 INFO  ImageImpl:95 - testimage.jpg
+2022-02-21 22:14:41 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:14:41 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:14:41 INFO  ImageImpl:94 - D:/computerVision/src/main/resources/images
+2022-02-21 22:14:41 INFO  ImageImpl:95 - testimage.jpg
+2022-02-21 22:26:08 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:26:08 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:26:08 INFO  ImageImpl:104 - D:/computerVision/src/main/resources/images
+2022-02-21 22:26:08 INFO  ImageImpl:105 - testimage.jpg
+2022-02-21 22:30:06 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:30:06 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:30:54 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:30:54 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:30:54 INFO  ImageImpl:104 - D:/computerVision/src/main/resources/images
+2022-02-21 22:30:54 INFO  ImageImpl:105 - testimage.jpg
+2022-02-21 22:31:06 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:31:06 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:31:07 INFO  ImageImpl:104 - D:/computerVision/src/main/resources/images
+2022-02-21 22:31:07 INFO  ImageImpl:105 - testimage.jpg
+2022-02-21 22:49:42 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:49:42 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:49:42 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-21 22:49:42 INFO  ImageImpl:120 - testimage.jpg
+2022-02-21 22:50:58 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:50:58 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:50:58 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-21 22:50:58 INFO  ImageImpl:120 - testimage.jpg
+2022-02-21 22:52:15 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:52:15 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:52:15 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-21 22:52:15 INFO  ImageImpl:120 - testimage.jpg
+2022-02-21 22:54:45 INFO  TaskImpl:27 - Checking OS.....
+2022-02-21 22:54:45 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-21 22:54:48 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-21 22:54:48 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:37:45 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:37:45 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:37:46 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:37:46 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:45:41 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:46:23 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:47:01 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:47:01 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:47:01 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:47:01 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:50:55 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:50:55 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:50:56 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:50:56 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:51:21 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:51:21 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:51:21 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:51:21 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:51:47 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:51:47 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:51:47 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:51:47 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:52:03 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:52:03 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:52:03 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:52:03 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 08:52:20 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 08:52:20 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 08:52:20 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 08:52:20 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 09:01:19 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:01:19 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:01:19 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 09:01:19 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 09:01:42 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:01:42 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:01:42 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 09:01:42 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 09:02:54 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:02:54 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:02:54 INFO  ImageImpl:119 - D:/computerVision/src/main/resources/images
+2022-02-22 09:02:54 INFO  ImageImpl:120 - testimage.jpg
+2022-02-22 09:04:46 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:04:46 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:04:46 INFO  ImageImpl:33 - buffer
+2022-02-22 09:04:46 INFO  ImageImpl:34 - [B@34c01041
+2022-02-22 09:04:47 INFO  ImageImpl:121 - D:/computerVision/src/main/resources/images
+2022-02-22 09:04:47 INFO  ImageImpl:122 - testimage.jpg
+2022-02-22 09:05:09 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:05:09 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:05:09 INFO  ImageImpl:33 - buffer
+2022-02-22 09:05:09 INFO  ImageImpl:34 - 1080000
+2022-02-22 09:05:09 INFO  ImageImpl:121 - D:/computerVision/src/main/resources/images
+2022-02-22 09:05:09 INFO  ImageImpl:122 - testimage.jpg
+2022-02-22 09:05:57 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:05:57 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:05:57 INFO  ImageImpl:33 - buffer
+2022-02-22 09:05:57 INFO  ImageImpl:34 - 1080000
+2022-02-22 09:05:57 INFO  ImageImpl:121 - D:/computerVision/src/main/resources/images
+2022-02-22 09:05:57 INFO  ImageImpl:122 - testimage.jpg
+2022-02-22 09:07:13 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:07:13 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:07:13 INFO  ImageImpl:122 - D:/computerVision/src/main/resources/images
+2022-02-22 09:07:13 INFO  ImageImpl:123 - testimage.jpg
+2022-02-22 09:09:40 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:09:40 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:09:40 INFO  ImageImpl:122 - D:/computerVision/src/main/resources/images
+2022-02-22 09:09:40 INFO  ImageImpl:123 - testimage.jpg
+2022-02-22 09:13:40 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:13:40 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:13:40 INFO  ImageImpl:122 - D:/computerVision/src/main/resources/images
+2022-02-22 09:13:40 INFO  ImageImpl:123 - testimage.jpg
+2022-02-22 09:13:56 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:13:56 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:14:11 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:14:11 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:14:12 INFO  ImageImpl:122 - D:/computerVision/src/main/resources/images
+2022-02-22 09:14:12 INFO  ImageImpl:123 - testimage.jpg
+2022-02-22 09:16:24 INFO  TaskImpl:27 - Checking OS.....
+2022-02-22 09:16:24 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-22 09:16:24 INFO  ImageImpl:121 - D:/computerVision/src/main/resources/images
+2022-02-22 09:16:24 INFO  ImageImpl:122 - testimage.jpg
+2022-02-26 17:10:12 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 17:12:53 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 17:14:38 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 17:25:09 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 17:25:09 INFO  TaskImpl:50 - D:\computerVision\.\lib\opencv_java455_64.dll
+2022-02-26 18:03:57 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 18:03:57 INFO  TaskImpl:50 - D:\computerVision\.\lib\opencv_videoio_ffmpeg455_64.dll
+2022-02-26 18:54:12 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 18:54:12 INFO  TaskImpl:50 - D:\computerVision\.\lib\opencv_videoio_ffmpeg455_64.dll
+2022-02-26 21:05:02 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 21:05:02 INFO  TaskImpl:50 - D:\computerVision\.\lib\opencv_videoio_ffmpeg455_64.dll
+2022-02-26 21:05:18 INFO  TaskImpl:27 - Checking OS.....
+2022-02-26 21:05:18 INFO  TaskImpl:50 - D:\computerVision\.\lib\opencv_java455.dll
+2022-02-26 21:05:18 DEBUG TaskImpl:51 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-26 21:05:18 INFO  ImageImpl:123 - D:/computerVision/src/main/resources/images
+2022-02-26 21:05:18 INFO  ImageImpl:124 - testimage.jpg
+2022-02-27 12:09:49 INFO  TaskImpl:27 - Checking OS.....
+2022-02-27 12:09:50 INFO  TaskImpl:50 - D:\computerVision\.\lib\opencv_java455.dll
+2022-02-27 12:09:50 DEBUG TaskImpl:51 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-02-27 12:09:50 INFO  ImageImpl:123 - D:/computerVision/src/main/resources/images
+2022-02-27 12:09:50 INFO  ImageImpl:124 - testimage.jpg
+2022-03-05 19:07:34 INFO  TaskImpl:27 - Checking OS.....
+2022-03-05 19:07:34 INFO  TaskImpl:49 - D:\Computer_Vision\.\lib\opencv_java455.dll
+2022-03-05 19:07:34 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-03-05 19:08:15 INFO  TaskImpl:27 - Checking OS.....
+2022-03-05 19:08:15 INFO  TaskImpl:49 - D:\Computer_Vision\.\lib\opencv_java455.dll
+2022-03-05 19:08:15 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-03-05 19:08:38 INFO  TaskImpl:27 - Checking OS.....
+2022-03-05 19:08:38 INFO  TaskImpl:49 - D:\Computer_Vision\.\lib\opencv_java455.dll
+2022-03-05 19:08:38 DEBUG TaskImpl:50 - Properties are loaded 
+OS Version: windows 10
+Open CV version - 4.5.5
+2022-03-05 19:08:38 INFO  ImageImpl:119 - D:/Computer_Vision/src/main/resources/images
+2022-03-05 19:08:38 INFO  ImageImpl:120 - testimage.jpg
